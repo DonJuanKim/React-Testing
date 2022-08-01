@@ -23,3 +23,5 @@ test("if an amount and note is entered, the request and pay button is enabled ",
 //   Similar to unit tests to test props, state and methods inside components
 // 2. testing-library
 //   Unlike enzyme to see how data changed or motified, testing-library is focused on the view part
+
+// 1. unit test
